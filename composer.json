@@ -1,10 +1,10 @@
 {
-    "name": "nemiah/php-sepa-xml", 
+    "name": "refda/php-sepa-xml", 
 	"description": "Simple classes for creating SEPA transfer and direct debit xml files. No dependencies",
 	"license": "LGPL-3.0",
 	"type": "library",
 	"keywords": ["sepa","xml"],
-	"homepage": "https://github.com/nemiah/phpSepaXml",
+	"homepage": "https://github.com/refda/phpSepaXml",
 	"authors": [
         {
             "name": "Nena Furtmeier",
@@ -14,7 +14,7 @@
 	],
     "autoload": {
         "psr-4": {
-            "nemiah\\phpSepaXml\\": ["src/nemiah/phpSepaXml/"]
+            "refda\\phpSepaXml\\": ["src/refda/phpSepaXml/"]
         }
 	},
     "require": {
